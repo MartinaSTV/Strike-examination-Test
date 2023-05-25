@@ -1,5 +1,4 @@
 
-
 User Story och Acceptanskriterier
 
 Som användare vill jag kunna boka datum och tid samt ange antal spelare så att jag kan reservera 1 eller flera baner i bowlinghallen.
@@ -11,7 +10,7 @@ Acceptans kriterier:
 
 Som användare vill jag kunna välja skostorlek för varje spelare så varje spelare får skor som passar.
 Acceptans kriterier:
-1, Kunna lägga till inputfält för att fylla i sko stl till varje spelare. Kolla add knappen.
+1, Kunna lägga till inputfält för att fylla i sko stl till varje spelare.
 2, Kunna skriva in sko stl.
 3, Det måste vara lika många skor ifyllda som antal spelare för att kunna boka. 
 
