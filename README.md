@@ -15,7 +15,6 @@ Acceptans kriterier:
 4, kunna välja antal banor vid bokning.
 
 
-
 Som användare vill jag kunna välja skostorlek för varje spelare så varje spelare får skor som passar.
 
 Acceptans kriterier:
@@ -26,13 +25,11 @@ Acceptans kriterier:
 
 3, Det måste vara lika många skor ifyllda som antal spelare för att kunna boka. 
 
-
 Som användare vill jag kunna ta bort ett fält för skostorlek om jag råkade klicka i ett för mycket så jag inte boka skor i onödan.
 
 Acceptans kriterier:
 
 1, Kunna ta bort ett fält för att fylla i skor.
-
 
 
 Som användare vill jag kunna skicka iväg min reservation och få tillbaka ett ett bokningsnummer och totalsumma så jag vet hur mycket jag ska betala. (120 kr / person + 100 kr / bana).
