@@ -26,6 +26,8 @@ Acceptans kriterier:
 3, få tillbaka en bekräftelse med summa att betala total summa samt summa per person. 
 4, kolla så total summa stämmer.
 5, kolla så summa per person stämmer. 
+5, det skall bara gå att skriva i nummer på inpufält antal spelare och banor.
+6, det skall inte gå att skriva in - nummer på på inpufält antal spelare.
 
 Som användare vill jag kunna navigera mellan boknings-och bekräftelsevyn.
 Acceptans kriterier:
