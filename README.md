@@ -58,5 +58,5 @@ Acceptans kriterier:
 
 kunna klicka sig vidare från bokning till bekräftelse.
 
-kunna klicka på navigering ikon och gå vidare till bokningar bekräftade.
+kunna klicka på navigering ikon och gå vidare till bokningar bekräftade och därefter till slut sidan see you soon.
 
