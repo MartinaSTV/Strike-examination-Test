@@ -1,6 +1,7 @@
 
 User Story och Acceptanskriterier
 
+
 Som användare vill jag kunna boka datum och tid samt ange antal spelare så att jag kan reservera 1 eller flera baner i bowlinghallen.
 
 Acceptans kriterier: 
@@ -12,6 +13,7 @@ Acceptans kriterier:
 3, kunna lägga till antal spelare.
 
 4, kunna välja antal banor vid bokning.
+
 
 
 Som användare vill jag kunna välja skostorlek för varje spelare så varje spelare får skor som passar.
@@ -32,6 +34,7 @@ Acceptans kriterier:
 1, Kunna ta bort ett fält för att fylla i skor.
 
 
+
 Som användare vill jag kunna skicka iväg min reservation och få tillbaka ett ett bokningsnummer och totalsumma så jag vet hur mycket jag ska betala. (120 kr / person + 100 kr / bana).
 
 Acceptans kriterier:
@@ -49,6 +52,7 @@ Acceptans kriterier:
 5, det skall bara gå att skriva i nummer på inpufält antal spelare och banor.
 
 6, det skall inte gå att skriva in - nummer på på inpufält antal spelare.
+
 
 
 Som användare vill jag kunna navigera mellan boknings-och bekräftelsevyn.
