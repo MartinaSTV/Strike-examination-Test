@@ -37,6 +37,8 @@ describe('bookingPage', () => {
   it('add shoes and remove shoes ', () => {
     cy.get('.shoes__button').click().click()
     cy.get('.shoes__form').should('have.length.greaterThan', 1)
+    cy.get('.shoes__button--small').first().click()
+    cy.get('.shoes__form').should('have.length', 1)
   })
 
   it('add shoes and compare to number of people', () => {
