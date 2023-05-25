@@ -46,8 +46,6 @@ Acceptans kriterier:
 
 5, kolla så summa per person stämmer. 
 
-5, det skall bara gå att skriva i nummer på inpufält antal spelare och banor.
-
 6, det skall inte gå att skriva in - nummer på på inpufält antal spelare.
 
 
