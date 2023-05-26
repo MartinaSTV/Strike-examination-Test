@@ -46,7 +46,11 @@ Acceptans kriterier:
 
 5, kolla så summa per person stämmer. 
 
-6, det skall inte gå att skriva in - nummer på på inpufält antal spelare.
+6, det skall inte gå att skriva in - nummer (tex -1 ) på på inpufält antal spelare.
+
+7, få tillbaka ett bokningsnummer när beställningen är gjord
+
+8, På bokningsbekräftelsen så ska man inte kunna ändra i inputfälten.
 
 
 
