@@ -18,7 +18,6 @@ describe('bookingPage', () => {
     cy.get('.input__field').eq(2).should('be.visible')
     cy.get('.input__field').eq(2).type('2')
     cy.get('.input__field').eq(2).should('have.value', '2')
-    cy.get('.input__field').eq(2)// kolla om nummer?
   })
 
   it('add number of lanes ', () => {
