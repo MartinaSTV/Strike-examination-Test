@@ -52,6 +52,8 @@ Acceptans kriterier:
 
 8, På bokningsbekräftelsen så ska man inte kunna ändra i inputfälten.
 
+9, Det skall inte gå att skriva i bokstäver in inputfältet för antal spelare eller lanes.
+
 
 
 Som användare vill jag kunna navigera mellan boknings-och bekräftelsevyn.
