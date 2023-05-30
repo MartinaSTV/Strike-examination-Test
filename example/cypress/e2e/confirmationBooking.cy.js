@@ -16,6 +16,7 @@ describe('Confirm booking', () => {
     cy.wait(1000)
     cy.get('.input__label').eq(3).should('have.text', 'Booking number')// booking number
     cy.get('.input__field').eq(3).should('not.have.value', '' )// is there an value in bookin number input
+    cy.get('.input__field').eq(3).invoke('val').should('have.length.greaterThan', 1 ) // kolla att det finns ett värde som kommer tillbaka.
   })
 
   it('add a booking and click, get total sum and sum p/p', () => {
@@ -136,5 +137,5 @@ describe('Confirm booking', () => {
     cy.get('.booking__button').click()
     cy.get('.error-message').should('contain', 'Fill out all the fields')
   })
-
+   
 })

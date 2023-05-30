@@ -46,4 +46,14 @@ describe('bookingPage', () => {
     cy.get('.shoes__button').click().click().click()
     cy.get('.shoes__form').should('have.length.greaterThan', 2)
   })
+
+  it('write letters in number input field players, should not work', () => {
+    cy.get('.input__field').eq(2).type('d')// number players
+    cy.get('.input__field').eq(2).should('have.value', '')
+  })
+  
+  it('write letters in number input field lanes, should not work', () => {
+    cy.get('.input__field').eq(3).type('d')// number lanes
+    cy.get('.input__field').eq(3).should('have.value', '')
+  })
 })

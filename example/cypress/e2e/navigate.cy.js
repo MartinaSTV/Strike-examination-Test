@@ -27,5 +27,4 @@ describe('bookingPage', () => {
         cy.get('.top__title').should('contain', 'See you soon')
       })
   
-    
   })
